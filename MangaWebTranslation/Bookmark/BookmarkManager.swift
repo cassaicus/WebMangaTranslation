@@ -1,8 +1,4 @@
-//
-//  BookmarkManager.swift
-//  MangaWebTranslation6
-//
-//  Created by Jules on 2025/11/17.
+//2025/11/17.
 //
 //  ブックマークのデータモデルと、UserDefaultsを使った永続化を管理するクラスを定義します。
 //

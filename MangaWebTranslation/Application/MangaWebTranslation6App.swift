@@ -1,8 +1,4 @@
-//
-//  MangaWebTranslation6App.swift
-//  MangaWebTranslation6
-//
-//  Created by ibis on 2025/11/12.
+//2025/11/12.
 //
 //  このファイルは、アプリケーションのエントリーポイント（開始点）を定義します。
 //  アプリが起動する際に最初に実行され、ウィンドウのセットアップや

@@ -1,8 +1,4 @@
-//
-//  BookmarkListView_macOS.swift
-//  MangaWebTranslation6
-//
-//  Created by Jules on 2025/11/17.
+//2025/11/17.
 //
 //  macOS専用のブックマーク一覧画面を定義します。
 //

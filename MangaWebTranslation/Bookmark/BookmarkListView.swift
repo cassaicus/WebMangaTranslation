@@ -1,8 +1,4 @@
-//
-//  BookmarkListView.swift
-//  MangaWebTranslation6
-//
-//  Created by Jules on 2025/11/17.
+//2025/11/17.
 //
 //  保存されたブックマークの一覧を表示し、管理するためのビューを定義します。
 //
