@@ -1,3 +1,9 @@
+//
+//  MangaWebTranslation6App.swift
+//  MangaWebTranslation6
+//
+//  Created by ibis on 2025/11/12.
+//
 //  このファイルは、アプリケーションのエントリーポイント（開始点）を定義します。
 //  アプリが起動する際に最初に実行され、ウィンドウのセットアップや
 //  初期ビューの表示を行います。
@@ -8,7 +14,7 @@ import SwiftUI
 // @main属性は、MangaWebTranslation6Appがアプリケーションの
 // エントリーポイントであることを示します。
 @main
-struct MangaWebTranslationApp: App {
+struct MangaWebTranslation6App: App {
 
     // bodyプロパティは、アプリのシーン（画面）を定義します。
     // ここでウィンドウのコンテンツと構造が決定されます。
