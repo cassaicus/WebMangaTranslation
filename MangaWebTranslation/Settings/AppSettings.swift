@@ -87,7 +87,7 @@ class AppSettings: ObservableObject {
 
     /// UserDefaultsから設定を読み込んで初期化します。
     init() {
-        self.initialUrl = UserDefaults.standard.string(forKey: Keys.initialUrl) ?? "https://www.google.com"
+        self.initialUrl = UserDefaults.standard.string(forKey: Keys.initialUrl) ?? "https://tonarinoyj.jp/"
         self.targetLanguage = UserDefaults.standard.string(forKey: Keys.targetLanguage) ?? "en" // デフォルトは英語
 
         // 保存されている値から位置を復元し、なければデフォルト値を設定します。
